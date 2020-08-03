@@ -1,0 +1,12 @@
+Internet of Things Platform-rs
+
+Organization ID
+0tux4e
+Device Type
+nodered
+Device ID
+249867
+Authentication Method
+use-token-auth
+Authentication Token
+QtL_iuSClVG1jrDr4h
